@@ -22,8 +22,8 @@
 
 ## Screenshots
 
-Execução da [x]() em python.
-
+Execução da [Questão-1222](https://github.com/projeto-de-algoritmos/Greed_Creeper/tree/master/Thiago/Quest%C3%A3o%201222) em python.
+![image](https://github.com/projeto-de-algoritmos/Greed_Creeper/assets/71983200/1ad0316f-2dae-40b7-9538-c046456c112d)
 
 Execução da [x]() em C <br>
 
