@@ -29,7 +29,7 @@ Execução da [Questão-1661](https://github.com/projeto-de-algoritmos/Greed_Cre
 ![image](https://github.com/projeto-de-algoritmos/Greed_Creeper/assets/71983200/6ae01f72-e54e-4331-b197-f87deeab9572)
 
 
-Execução da [Questão-1034](https://github.com/projeto-de-algoritmos/Greed_Creeper/tree/master/Pablo) em C <br>
+Execução da [Questão-1034](https://github.com/projeto-de-algoritmos/Greed_Creeper/tree/master/Pablo) em C++ <br>
 ![image](https://github.com/projeto-de-algoritmos/Greed_Creeper/assets/71983200/2f8f9437-7517-4981-af78-d3147df95cda)
 
 
@@ -40,11 +40,12 @@ Execução da [Questão-1487](https://github.com/projeto-de-algoritmos/Greed_Cre
 ## Instalação 
 
 ### **Linguagens:** 
-C e Python
+C,C++ e Python
 
 ### **Pré-requisistos**
 * Ter instalado no seu computador as Linguagen:
     * C99 ou Acima
+    * C++ 17 ou Acima
     * Python 3.8 ou Acima
 
 ### **Comandos Necessários**
@@ -52,7 +53,11 @@ C e Python
 ```
 gcc ./NomeCodigo.c 
 ```
-* Para executar as questões em C
+* Para compilar as questões em C++
+```
+g++ ./NomeCodigo.cpp 
+```
+* Para executar as questões em C ou C++
     * Ao compilar, automaticamente será gerada um executavel, basta executá-lo desta forma
 ```
 ./NomeExecutavel.exe
