@@ -29,10 +29,13 @@ Execução da [Questão-1661](https://github.com/projeto-de-algoritmos/Greed_Cre
 ![image](https://github.com/projeto-de-algoritmos/Greed_Creeper/assets/71983200/6ae01f72-e54e-4331-b197-f87deeab9572)
 
 
-Execução da [x]() em C <br>
+Execução da [Questão-1034](https://github.com/projeto-de-algoritmos/Greed_Creeper/tree/master/Pablo) em C <br>
+![image](https://github.com/projeto-de-algoritmos/Greed_Creeper/assets/71983200/2f8f9437-7517-4981-af78-d3147df95cda)
 
 
-Execução da [x]() em C <br>
+Execução da [Questão-1487](https://github.com/projeto-de-algoritmos/Greed_Creeper/tree/master/Pablo) em C <br>
+![image](https://github.com/projeto-de-algoritmos/Greed_Creeper/assets/71983200/57089dca-39ff-4343-9f46-d41f6aada43c)
+
 
 ## Instalação 
 
