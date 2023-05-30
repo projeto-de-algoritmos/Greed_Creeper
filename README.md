@@ -1,12 +1,5 @@
 # Greed_Creeper 
-🟩🟩🟩🟩🟩🟩🟩🟩 <br>
-🟩⬛⬛🟩🟩⬛⬛🟩 <br>
-🟩⬛⬛🟩🟩⬛⬛🟩 <br>
-🟩🟩🟩⬛⬛🟩🟩🟩 <br>
-🟩🟩🟩⬛⬛🟩🟩🟩 <br>
-🟩🟩⬛⬛⬛⬛🟩🟩 <br>
-🟩🟩⬛🟩🟩⬛🟩🟩 <br>
-🟩🟩🟩🟩🟩🟩🟩🟩 <br>
+<img src= "https://github.com/projeto-de-algoritmos/Greed_Creeper/assets/71983200/032880b2-a78d-469f-b28f-847fe7deab99" width = "20%" height = "20%">
 
 **Número da Lista**: 3 <br>
 **Conteúdo da Disciplina**: Algoritmos Ambiciosos <br>
